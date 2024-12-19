@@ -1,0 +1,11 @@
+﻿global using DOTNET_Angular_DUC_SHOP3a.Models;
+global using DOTNET_Angular_DUC_SHOP3a.Models.DTO;
+global using DOTNET_Angular_DUC_SHOP3a.Data;
+global using DOTNET_Angular_DUC_SHOP3a.Controllers;
+global using DOTNET_Angular_DUC_SHOP3a.Repository.Interface;
+global using DOTNET_Angular_DUC_SHOP3a.Repository.Implementation;
+global using FluentAssertions;
+global using Microsoft.EntityFrameworkCore;
+global using ProjectTest.MockData;
+global using Microsoft.AspNetCore.Mvc;
+global using Moq;

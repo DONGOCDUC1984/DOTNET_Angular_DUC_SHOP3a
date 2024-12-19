@@ -1,0 +1,234 @@
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\appsettings.Development.json
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\appsettings.json
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.exe
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.deps.json
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.runtimeconfig.json
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.pdb
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Humanizer.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\MySqlConnector.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\System.CodeDom.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.csproj.AssemblyReference.cache
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.AssemblyInfoInputs.cache
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.AssemblyInfo.cs
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.csproj.CoreCompileInputs.cache
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.MvcApplicationPartsAssemblyInfo.cs
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.MvcApplicationPartsAssemblyInfo.cache
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.DOTNET_Angular_DUC_SHOP3a.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.build.DOTNET_Angular_DUC_SHOP3a.props
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DOTNET_Angular_DUC_SHOP3a.props
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DOTNET_Angular_DUC_SHOP3a.props
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets.pack.json
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets.build.json
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets.development.json
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\scopedcss\bundle\DOTNET_Angular_DUC_SHOP3a.styles.css
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.csproj.CopyComplete
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\refint\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.pdb
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.genruntimeconfig.cache
+D:\IT normal\C#\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\ref\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\appsettings.Development.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\appsettings.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.exe
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.deps.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.runtimeconfig.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.pdb
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Humanizer.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\MySqlConnector.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\System.CodeDom.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.csproj.AssemblyReference.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.AssemblyInfoInputs.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.AssemblyInfo.cs
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.csproj.CoreCompileInputs.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.MvcApplicationPartsAssemblyInfo.cs
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.MvcApplicationPartsAssemblyInfo.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets.build.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets.development.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.DOTNET_Angular_DUC_SHOP3a.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.build.DOTNET_Angular_DUC_SHOP3a.props
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DOTNET_Angular_DUC_SHOP3a.props
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DOTNET_Angular_DUC_SHOP3a.props
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets.pack.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\scopedcss\bundle\DOTNET_Angular_DUC_SHOP3a.styles.css
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_A.D749AB7F.Up2Date
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\refint\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.pdb
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.genruntimeconfig.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\ref\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.csproj.AssemblyReference.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.AssemblyInfoInputs.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.AssemblyInfo.cs
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.csproj.CoreCompileInputs.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.MvcApplicationPartsAssemblyInfo.cs
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.MvcApplicationPartsAssemblyInfo.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\refint\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.pdb
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\appsettings.Development.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\appsettings.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.exe
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.deps.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.runtimeconfig.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.pdb
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Humanizer.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\MySqlConnector.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\StackExchange.Redis.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\System.CodeDom.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets.build.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets.development.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.DOTNET_Angular_DUC_SHOP3a.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.build.DOTNET_Angular_DUC_SHOP3a.props
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DOTNET_Angular_DUC_SHOP3a.props
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DOTNET_Angular_DUC_SHOP3a.props
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets.pack.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\scopedcss\bundle\DOTNET_Angular_DUC_SHOP3a.styles.css
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_A.D749AB7F.Up2Date
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.genruntimeconfig.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 2\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\ref\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\appsettings.Development.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\appsettings.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.exe
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.deps.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.runtimeconfig.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.pdb
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Humanizer.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\MySqlConnector.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\StackExchange.Redis.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\System.CodeDom.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.csproj.AssemblyReference.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.AssemblyInfoInputs.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.AssemblyInfo.cs
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.csproj.CoreCompileInputs.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.MvcApplicationPartsAssemblyInfo.cs
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.MvcApplicationPartsAssemblyInfo.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets.build.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets.development.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.DOTNET_Angular_DUC_SHOP3a.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.build.DOTNET_Angular_DUC_SHOP3a.props
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DOTNET_Angular_DUC_SHOP3a.props
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DOTNET_Angular_DUC_SHOP3a.props
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\staticwebassets.pack.json
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\scopedcss\bundle\DOTNET_Angular_DUC_SHOP3a.styles.css
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_A.D749AB7F.Up2Date
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\refint\DOTNET_Angular_DUC_SHOP3a.dll
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.pdb
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\DOTNET_Angular_DUC_SHOP3a.genruntimeconfig.cache
+D:\IT normal\C# Net\Projects\API\Normal API\DOTNET_Angular_DUC_SHOP3a\Version 3\DOTNET_Angular_DUC_SHOP3a\DOTNET_Angular_DUC_SHOP3a\obj\Debug\net7.0\ref\DOTNET_Angular_DUC_SHOP3a.dll
